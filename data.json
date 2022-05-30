@@ -1,0 +1,197 @@
+{
+  "StockList": [
+    {
+      "ask": 117.27,
+      "id": 1,
+      "averageDailyVolume10Day": 233119800,
+      "averageDailyVolume3Month": 170533131,
+      "bid": 117.25,
+      "bidSize": 22,
+      "amount": "4.218",
+      "currency": "USD",
+      "company": "Apple",
+      "dividendDate": 1597276800,
+      "earningsTimestamp": 1596126600,
+      "earningsTimestampEnd": 1604318400,
+      "earningsTimestampStart": 1603882740,
+      "transnumber": "1603882740"
+    },
+    {
+      "ask": 211.63,
+      "id": 2,
+      "averageDailyVolume10Day": 43250000,
+      "averageDailyVolume3Month": 35562815,
+      "bid": 211.25,
+      "bidSize": 9,
+      "amount": "15.626",
+      "currency": "USD",
+      "company": "Microsoft",
+      "dividendDate": 1599696000,
+      "earningsTimestamp": 1595434164,
+      "earningsTimestampEnd": 1603742400,
+      "earningsTimestampStart": 1603310400,
+      "transnumber": "1603310400"
+    },
+    {
+      "ask": 211.63,
+      "id": 3,
+      "averageDailyVolume10Day": 43250000,
+      "averageDailyVolume3Month": 35562815,
+      "bid": 211.25,
+      "bidSize": 9,
+      "amount": "9.54",
+      "currency": "USD",
+      "company": "Samsung",
+      "dividendDate": 1599696000,
+      "earningsTimestamp": 1595434164,
+      "earningsTimestampEnd": 1603742400,
+      "earningsTimestampStart": 1603310400,
+      "transnumber": "1606524852"
+    },
+    {
+      "ask": 211.63,
+      "id": 4,
+      "averageDailyVolume10Day": 43250000,
+      "averageDailyVolume3Month": 35562815,
+      "bid": 211.25,
+      "bidSize": 9,
+      "amount": "21.65",
+      "currency": "USD",
+      "company": "Google",
+      "dividendDate": 1599696000,
+      "earningsTimestamp": 1595434164,
+      "earningsTimestampEnd": 1603742400,
+      "earningsTimestampStart": 1603310400,
+      "transnumber": "1603658497"
+    },
+    {
+      "ask": 211.63,
+      "id": 5,
+      "averageDailyVolume10Day": 43250000,
+      "averageDailyVolume3Month": 35562815,
+      "bid": 211.25,
+      "bidSize": 9,
+      "amount": "12.37",
+      "currency": "USD",
+      "company": "Yahoo",
+      "dividendDate": 1599696000,
+      "earningsTimestamp": 1595434164,
+      "earningsTimestampEnd": 1603742400,
+      "earningsTimestampStart": 1603310400,
+      "transnumber": "1603975861"
+    }
+  ],
+  "UserList": [
+    {
+      "id": 1,
+      "firstname": "Earl Don",
+      "lastname": "Dela Rosa",
+      "email": "earl@gmail.com",
+      "username": "earl",
+      "password": "000000",
+      "balancecash": 650,
+      "transactions": [
+        {
+          "date": "11/05/2022",
+          "company": "Apple",
+          "transnumber": "12345678",
+          "amount": "5450",
+          "unit": "4"
+        },
+        {
+          "date": "11/05/2022",
+          "company": "Samsung",
+          "transnumber": "98764521",
+          "amount": "3531",
+          "unit": "2"
+        },
+        {
+          "date": "11/05/2022",
+          "company": "Sony",
+          "transnumber": "75654232",
+          "amount": "3586",
+          "unit": "1"
+        },
+        {
+          "date": "11/05/2022",
+          "company": "Toshiba",
+          "transnumber": "45685264",
+          "amount": "7524",
+          "unit": "3"
+        },
+        {
+          "date": "11/05/2022",
+          "company": "Ericson",
+          "transnumber": "35715964",
+          "amount": "9654",
+          "unit": "7"
+        },
+        {
+          "date": "11/05/2022",
+          "company": "Simens",
+          "transnumber": "95486247",
+          "amount": "6547",
+          "unit": "2"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "firstname": "Yani",
+      "lastname": "Palin",
+      "email": "yani@gmail.com",
+      "username": "yani",
+      "password": "111111",
+      "balancecash": 780,
+      "transactions": [
+        {
+          "date": "11/05/2022",
+          "company": "Apple",
+          "transnumber": "12345678",
+          "amount": "5450",
+          "unit": "4"
+        },
+        {
+          "date": "11/05/2022",
+          "company": "Samsung",
+          "transnumber": "98764521",
+          "amount": "3531",
+          "unit": "2"
+        },
+        {
+          "date": "11/05/2022",
+          "company": "Sony",
+          "transnumber": "75654232",
+          "amount": "3586",
+          "unit": "1"
+        },
+        {
+          "date": "11/05/2022",
+          "company": "Toshiba",
+          "transnumber": "45685264",
+          "amount": "7524",
+          "unit": "3"
+        }
+      ]
+    },
+    {
+      "transactions": {
+        "ask": 211.63,
+        "id": 5,
+        "averageDailyVolume10Day": 43250000,
+        "averageDailyVolume3Month": 35562815,
+        "bid": 211.25,
+        "bidSize": 9,
+        "amount": "12.37",
+        "currency": "USD",
+        "company": "Yahoo",
+        "dividendDate": 1599696000,
+        "earningsTimestamp": 1595434164,
+        "earningsTimestampEnd": 1603742400,
+        "earningsTimestampStart": 1603310400,
+        "transnumber": "1603975861"
+      },
+      "id": 3
+    }
+  ]
+}

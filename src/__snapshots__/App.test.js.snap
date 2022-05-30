@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`This is login page To check if data has changed 1`] = `
+<h3>
+  Login to access your account1
+</h3>
+`;
